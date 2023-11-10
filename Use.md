@@ -31,6 +31,7 @@
 
 
 ### chrome扩展
+- Proxy SwitchyOmega  代理工具
 - vue.js devtools   vue开发者工具
 - React Developer Tools   react开发者工具
 - ColorZilla   颜色拾取
