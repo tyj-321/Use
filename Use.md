@@ -4,7 +4,7 @@
 - [Postman](https://www.postman.com/)  用得不多，不太会用，有时候后端接口会支持这个打开
 - [ToDesk](https://www.todesk.com/)  远程处理问题
 - [向日葵](https://sunlogin.oray.com/price)  少用  可能会用于排查现场问题
-- [GifCam](https://gifcam.en.softonic.com/)  用来截取动图
+- [PixPin](https://pixpinapp.com/)  用来截图，长截图，gif截图
 - [Chrome](https://www.google.cn/intl/en/chrome/)   主要浏览器，插件查看chrome扩展
 - [Firefox](https://www.firefox.com.cn/)  用得不多，有时候会用来复现缺陷
 - [Everything](https://www.voidtools.com/zh-cn/)   有时候会用来查文件
