@@ -30,6 +30,7 @@
 - vscode-icons  图标
 - Where Am I   显示文件位置
 - GitHub Repositories  本地vscode打开github上的项目
+- Bearded Theme  vscode主题，超多暗色主题选择
 
 
 ### chrome扩展
