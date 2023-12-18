@@ -29,6 +29,7 @@
 - Vetur  vue代码高亮
 - vscode-icons  图标
 - Where Am I   显示文件位置
+- GitHub Repositories  本地vscode打开github上的项目
 
 
 ### chrome扩展
