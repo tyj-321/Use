@@ -12,6 +12,7 @@
 - [微信开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)
 - [Typora](https://www.macupdate.com/app/mac/52992/typora)  markdown编辑器
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)  镜像管理
+- [git](https://git-scm.com/)
 
 ### VS code插件
 - Chinese  翻译
