@@ -24,11 +24,12 @@
 - GitLens 代码提交信息
 - JS Quick Console  快速打印
 - Partial Diff  查找不同
-- Power Mode    一个输入特效
+- Power Mode   一个输入特效
 - SVN  svn代码管理
 - Vetur  vue代码高亮
 - vscode-icons  图标
 - Where Am I   显示文件位置
+- UnoCSS 可以支持unocss的提示
 - GitHub Repositories  本地vscode打开github上的项目
 - Bearded Theme  vscode主题，超多好看的暗色系主题选择
 
