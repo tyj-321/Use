@@ -50,6 +50,33 @@
 - 篡改猴  脚本工具
 
 
+### git bash 别名
+- alias pi='pnpm install'
+- alias pa='pnpm add'
+- alias pd='pnpm dev'
+- alias pdd='pnpm docs:dev'
+- alias pb='pnpm build'
+- alias pl='pnpm lint'
+- alias plf='pnpm lint:fix'
+- alias pt='pnpm test'
+- alias ni='npm install'
+- alias nui='npm uninstall'
+- alias nil='npm i --legacy-peer-deps'
+- alias ns='npm run serve'
+- alias nb='npm run build'
+- alias gz='git-cz'
+- alias gl='git pull'
+- alias gs='git stash'
+- alias gsp='git stash pop'
+- alias gh='git reset --soft HEAD^'
+- alias gco='git checkout'
+- alias gb='git branch'
+- alias gm='git merge'
+- alias p='git pull && git push'
+- alias gg='git log'
+- alias c='clear'
+
+
 ### 常用地址
 - [github](https://github.com/)
 - [稀土掘金](https://juejin.cn/)
