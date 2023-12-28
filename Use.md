@@ -90,6 +90,7 @@
 - [AI工具集](https://ai-bot.cn/)
 - [icons](https://icones.js.org/)
 - [vue官网](https://cn.vuejs.org/guide/introduction.html)
+- [npm](https://www.npmjs.com/)
 
 
 ### 其他
