@@ -24,14 +24,14 @@
 - GitLens 代码提交信息
 - JS Quick Console  快速打印
 - Partial Diff  查找不同
-- Power Mode    一个输入特效
+- Power Mode   一个输入特效
 - SVN  svn代码管理
 - Vetur  vue代码高亮
 - vscode-icons  图标
 - Where Am I   显示文件位置
 - Auto Rename Tag 修改一处tag同步修改
 - GitHub Repositories  本地vscode打开github上的项目
-- Bearded Theme  vscode主题，超多暗色主题选择
+- Bearded Theme  vscode主题，超多好看的暗色系主题选择
 
 
 ### chrome扩展
@@ -50,6 +50,33 @@
 - 篡改猴  脚本工具
 
 
+### git bash 别名
+- alias pi='pnpm install'
+- alias pa='pnpm add'
+- alias pd='pnpm dev'
+- alias pdd='pnpm docs:dev'
+- alias pb='pnpm build'
+- alias pl='pnpm lint'
+- alias plf='pnpm lint:fix'
+- alias pt='pnpm test'
+- alias ni='npm install'
+- alias nui='npm uninstall'
+- alias nil='npm i --legacy-peer-deps'
+- alias ns='npm run serve'
+- alias nb='npm run build'
+- alias gz='git-cz'
+- alias gl='git pull'
+- alias gs='git stash'
+- alias gsp='git stash pop'
+- alias gh='git reset --soft HEAD^'
+- alias gco='git checkout'
+- alias gb='git branch'
+- alias gm='git merge'
+- alias p='git pull && git push'
+- alias gg='git log'
+- alias c='clear'
+
+
 ### 常用地址
 - [github](https://github.com/)
 - [稀土掘金](https://juejin.cn/)
@@ -63,6 +90,7 @@
 - [AI工具集](https://ai-bot.cn/)
 - [icons](https://icones.js.org/)
 - [vue官网](https://cn.vuejs.org/guide/introduction.html)
+- [npm](https://www.npmjs.com/)
 
 
 ### 其他
