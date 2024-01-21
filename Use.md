@@ -75,6 +75,8 @@
 - alias p='git pull && git push'
 - alias gg='git log'
 - alias c='clear'
+- alias vi='volta install'
+- alias vp='volta pin'
 
 
 ### 常用地址
