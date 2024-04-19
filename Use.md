@@ -32,6 +32,7 @@
 - Auto Rename Tag 修改一处tag同步修改
 - GitHub Repositories  本地vscode打开github上的项目
 - Bearded Theme  vscode主题，超多好看的暗色系主题选择
+- Apc Customize UI++ 美化侧边栏
 
 
 ### chrome扩展
