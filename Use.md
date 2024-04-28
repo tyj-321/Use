@@ -59,6 +59,7 @@
 - alias pb='pnpm build'
 - alias pl='pnpm lint'
 - alias plf='pnpm lint:fix'
+- alias pf='pnpm --filter'
 - alias pt='pnpm test'
 - alias ni='npm install'
 - alias nui='npm uninstall'
