@@ -66,6 +66,7 @@
 - alias nil='npm i --legacy-peer-deps'
 - alias ns='npm run serve'
 - alias nb='npm run build'
+- alias gcl='git clone'
 - alias gz='git-cz'
 - alias gl='git pull'
 - alias gs='git stash'
@@ -79,6 +80,7 @@
 - alias c='clear'
 - alias vi='volta install'
 - alias vp='volta pin'
+- alias w='code'
 
 
 ### 常用地址
