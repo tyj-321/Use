@@ -1,5 +1,6 @@
 ### 客户端
 - [VS code](https://code.visualstudio.com/)  写代码用  插件查看VS code插件
+- [Cursor](https://www.cursor.com/) 最近一年用得最多，vibe coding
 - [Clash for Windows](https://github.com/cfwtf/clash_for_windows)  github有备份，主库已经删了，可能后面会换[v2rayN](https://github.com/2dust/v2rayN)
 - [Postman](https://www.postman.com/)  用得不多，不太会用，有时候后端接口会支持这个打开
 - [ToDesk](https://www.todesk.com/)  远程处理问题
@@ -49,6 +50,7 @@
 - 沙拉查词-聚合词典划词翻译   快速查单词
 - 潮汐 - 极简番茄钟与白噪音
 - 篡改猴  脚本工具
+- Vue Devtool Toggle 切换vue开发者工具v6和v7版本的插件
 
 
 ### git bash 别名
