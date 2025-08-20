@@ -35,7 +35,8 @@
 - Auto Rename Tag 修改一处tag同步修改
 - GitHub Repositories  本地vscode打开github上的项目
 - Vitesse Theme  vscode主题 by antfu
-- Apc Customize UI++ 美化侧边栏
+- Color Highlight 色值高亮
+- Catppuccin Icons for VSCode 文件图标插件
 
 
 ### chrome扩展
@@ -53,6 +54,7 @@
 - 潮汐 - 极简番茄钟与白噪音
 - 篡改猴  脚本工具
 - Vue Devtool Toggle 切换vue开发者工具v6和v7版本的插件
+- Ghelper 可以访问外网的插件
 
 
 ### git bash 别名
