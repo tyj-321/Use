@@ -14,6 +14,8 @@
 - [Typora](https://www.macupdate.com/app/mac/52992/typora)  markdown编辑器
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)  镜像管理
 - [git](https://git-scm.com/)
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 显示当前网速、CPU及内存利用率的桌面悬浮窗软件
+- [qttabbar](https://github.com/indiff/qttabbar) 可以把windows的文件窗口类似tab的方式打开
 
 ### VS code插件
 - Chinese  翻译
